@@ -7,7 +7,7 @@ Bachelor of Information, HCI @ University of Toronto
 
 ## About Me
 
-I'm a data-focused CS student with a background in both technical analytics and product management. I enjoy working on problems that sit at the intersection of data, behavior, and real-world impact — from causal inference in digital advertising to computer vision for environmental monitoring.
+I'm a CS student with a background in Human-Computer Interaction, which shaped the way I think about how people interact with systems and data. Over time, my interests have shifted toward the data science and machine learning side — I'm drawn to problems where rigorous analysis leads to decisions that actually matter.
 
 ---
 
