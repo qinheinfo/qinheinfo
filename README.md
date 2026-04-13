@@ -1,7 +1,7 @@
 # Hi, I'm Quinn (Qin) He 👋
 
-M1 Computer Science @ Institut Polytechnique de Paris (Telecom SudParis)  
-Previously @ University of Toronto · Bachelor of Information, HCI
+M1 Computer Science @ Institut Polytechnique de Paris  
+Bachelor of Information, HCI @ University of Toronto
 
 ---
 
@@ -16,9 +16,6 @@ I'm a data-focused CS student with a background in both technical analytics and 
 **Languages & Data**  
 Python (Pandas, NumPy, Scikit-learn, PyTorch) · SQL · R
 
-**Machine Learning**  
-Causal Inference · Uplift Modeling · Object Detection (YOLO) · Meta-Learners (S/T/X-Learner)
-
 **Tools**  
 Tableau · Power BI · Figma · Excel · Git
 
@@ -27,10 +24,12 @@ English (C1～C2) · Chinese (C2) · Japanese (B1) · French (A2)
 
 ---
 
-## Featured Project
-
-**Criteo Ad Uplift Prediction**  
-Causal inference modeling on 14M+ rows of digital advertising data · Built S/T/X-Learner architectures · Designed smart targeting strategy achieving 40% higher conversion rate
+## My Passions
+* 💪 Work Out
+* 🎸 Guitar
+* 💻 Machine Learning
+* 🎶 Music (I love Laufey!)
+* 🍵 Matcha
 
 ---
 
