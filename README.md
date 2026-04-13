@@ -14,7 +14,7 @@ I'm a data-focused CS student with a background in both technical analytics and 
 ## Skills
 
 **Languages & Data**  
-Python (Pandas, NumPy, Scikit-learn, PyTorch) · SQL · R
+Python (Pandas, NumPy, Scikit-learn, PyTorch) · SQL
 
 **Tools**  
 Tableau · Power BI · Figma · Excel · Git
