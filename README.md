@@ -20,7 +20,7 @@ Python (Pandas, NumPy, Scikit-learn, PyTorch) · SQL
 Tableau · Power BI · Figma · Excel · Git
 
 **Languages**  
-English (C1～C2) · Chinese (C2) · Japanese (B1) · French (A2)
+English (C1-C2) · Chinese (C2) · Japanese (B1) · French (A2)
 
 ---
 
