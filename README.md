@@ -1,36 +1,23 @@
-# Hi, I'm Quinn (Qin) He 👋
+# Quinn (Qin) He
 
-M1 Computer Science @ Institut Polytechnique de Paris  
-Bachelor of Information, HCI @ University of Toronto
+Data engineering student based in Paris.
 
----
+- M2 Digital Skills for Healthcare Transformation (Data Track), Institut Polytechnique de Paris
+- M1 Computer Science, Institut Polytechnique de Paris
+- Bachelor of Information (Human-Computer Interaction), University of Toronto
 
-## About Me
+Looking for a data engineering internship starting spring 2027.
 
-I'm a CS student with a background in Human-Computer Interaction, which shaped the way I think about how people interact with systems and data. Over time, my interests have shifted toward the data science and machine learning side — I'm drawn to problems where rigorous analysis leads to decisions that actually matter.
+## Featured project
 
----
+**[Paris Mobility Pipeline](https://github.com/qinheinfo/paris-mobility-pipeline)**: a real-time pipeline for Paris Vélib' bike availability, built with Kafka, Spark Structured Streaming, Apache Iceberg, dbt and Airflow.
 
 ## Skills
 
-**Languages & Data**  
-Python (Pandas, NumPy, Scikit-learn, PyTorch) · SQL
+**Data engineering:** Kafka · Spark (Structured Streaming, SQL) · Apache Iceberg · dbt · Airflow · Docker  
+**Programming:** Python · SQL · Git  
+**Languages:** English (C1–C2) · Chinese (native) · Japanese (B1) · French (A2)
 
-**Tools**  
-Tableau · Power BI · Figma · Excel · Git
+## Contact
 
-**Languages**  
-English (C1-C2) · Chinese (C2) · Japanese (B1) · French (A2)
-
----
-
-## My Passions
-* 💪 Work Out
-* 🎸 Guitar
-* 💻 Machine Learning
-* 🎶 Music (I love Laufey!)
-* 🍵 Matcha
-
----
-
-📫 cestquinnhe@gmail.com · [LinkedIn](https://www.linkedin.com/in/qin-he/)
+cestquinnhe@gmail.com · [LinkedIn](https://www.linkedin.com/in/qin-he/)
