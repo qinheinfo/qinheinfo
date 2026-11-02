@@ -16,7 +16,7 @@ Looking for a data engineering internship starting spring 2027.
 
 **Data engineering:** Kafka · Spark (Structured Streaming, SQL) · Apache Iceberg · dbt · Airflow · Docker  
 **Programming:** Python · SQL · Git  
-**Languages:** English (C1–C2) · Chinese (native) · Japanese (B1) · French (A2)
+**Languages:** English (C1–C2) · Chinese (native) · French (B1)
 
 ## Contact
 
